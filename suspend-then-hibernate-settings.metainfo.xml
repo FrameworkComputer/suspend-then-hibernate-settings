@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <id>org.framework.suspend-then-hibernate-settings</id>
+  <name>Suspend-then-Hibernate Settings</name>
+  <summary>Configure suspend-then-hibernate settings on Fedora</summary>
+  <description>
+    <p>A GNOME-based tool for configuring suspend-then-hibernate settings on Fedora. 
+    This application provides a user-friendly interface to manage your system's 
+    suspend and hibernation options.</p>
+  </description>
+  <screenshots>
+    <screenshot type="default">
+      <image>/%{_datadir}/doc/suspend-then-hibernate-settings/Screenshot.png</image> 
+    </screenshot>
+  </screenshots>
+  <url type="homepage">https://frame.work/linux</url>
+  <releases>
+    <release version="1.0" date="2024-10-30"/> 
+  </releases>
+</component>

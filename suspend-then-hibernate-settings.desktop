@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Suspend-then-Hibernate Settings
+Comment=Configure suspend-then-hibernate options
+Exec=/usr/bin/suspend-then-hibernate-settings
+Icon=hibernate-bear-icon
+Terminal=false
+Type=Application
+Categories=Settings;
